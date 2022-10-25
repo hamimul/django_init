@@ -1,1 +1,1 @@
-web: gunicorn django-init-2022.wsgi --log-file -
+web: gunicorn djangoherokuapp.wsgi --log-file -
