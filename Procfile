@@ -1,1 +1,1 @@
-web: gunicorn django_init.wsgi --log-file -
+web: gunicorn django-init-2022.wsgi --log-file -
